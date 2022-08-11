@@ -19,9 +19,10 @@
  💎 💎 💎 </br>
  Let's learn and grow my skills from a technical standpoint ! <br>
 </p>
+</br>
 </p>
 <p align="center">
-  <a href="https://github.com/Super-Smile/github-readme-stats">
+  <a href="https://github.com/charisma-smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=charisma-smile&count_private=true&show_icons=true&custom_title=Bigsmile's%20Github%20Status&hide=issues&theme=vision-friendly-light"
