@@ -10,25 +10,23 @@
   <a href="https://github.com/Super-Smile"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Full%20Stack%20Developer;Blockchain%20NFT%20Expert;10%2B%20years%20of%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
-<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Super-Smile" /> </p>
+<p align="left" style="font-family: Brush Script MT"> <img src="https://komarev.com/ghpvc/?username=chinmay29hub&label=Profile%20views&color=0e75b6&style=flat" alt="Bigsmile" /> </p>
 
 <p align="center">
-  <a href="https://github.com/Super-Smile/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Super-Smile" src="https://github-readme-streak-stats.herokuapp.com/?user=Super-Smile&theme=monokai-metallian&hide_border=true"/>
-  </a>
+  <a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/7fd019124c7b464d92541356e11da445.png?r=lwi" width="400" alt="bigsmile's Dev Card"/></a>
 </p>
 <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=Super-Smile&count_private=true&show_icons=true&custom_title=Super-Smile's%20Github%20Status&hide=issues&theme=vision-friendly-dark"
+      src="https://github-readme-stats.vercel.app/api?username=charisma-smile&count_private=true&show_icons=true&custom_title=Bigsmile's%20Github%20Status&hide=issues&theme=vision-friendly-light"
     />
    </a>
 
   <a href="https://github.com/Super-Smile/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Super-Smile&layout=compact&theme=vision-friendly-dark" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisma-smile&layout=compact&theme=vision-friendly-light" />
   </a>  
 </p>
   
