@@ -14,6 +14,11 @@
 
 <p align="center">
   <a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/7fd019124c7b464d92541356e11da445.png?r=lwi" width="400" alt="bigsmile's Dev Card"/></a>
+  </br>
+<p align="center">
+ 💎 💎 💎 </br>
+ Let's learn and grow my skills from a technical standpoint ! <br>
+</p>
 </p>
 <p align="center">
   <a href="https://github.com/Super-Smile/github-readme-stats">
@@ -23,7 +28,7 @@
     />
    </a>
 
-  <a href="https://github.com/Super-Smile/github-readme-stats">
+  <a href="https://github.com/charisma-smile/github-readme-stats">
     <img
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisma-smile&layout=compact&theme=vision-friendly-light" />
