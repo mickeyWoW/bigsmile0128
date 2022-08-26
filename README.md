@@ -22,17 +22,17 @@
 </br>
 </p>
 <p align="center">
-  <a href="https://github.com/charisma-smile/github-readme-stats">
+  <a href="https://github.com/bigsmile0128/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=charisma-smile&count_private=true&show_icons=true&custom_title=Bigsmile's%20Github%20Status&hide=issues&theme=vision-friendly-light"
+      src="https://github-readme-stats.vercel.app/api?username=bigsmile0128&count_private=true&show_icons=true&custom_title=Bigsmile's%20Github%20Status&hide=issues&theme=vision-friendly-light"
     />
    </a>
 
-  <a href="https://github.com/charisma-smile/github-readme-stats">
+  <a href="https://github.com/bigsmile0128/github-readme-stats">
     <img
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=charisma-smile&layout=compact&theme=vision-friendly-light" />
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bigsmile0128&layout=compact&theme=vision-friendly-light" />
   </a>  
 </p>
   
